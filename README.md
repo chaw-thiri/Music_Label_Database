@@ -1,5 +1,10 @@
 # Music_Label_Database
 Final teamwork project about music label system
+### Collaborators
+* Luis Felipe Depardon Jasso
+* Vu Nguyen Bao Ngoc
+* Thiri Moe Htet
+* Chaw Thiri San
 ## Powerpoint link
 [Canva ppt](https://www.canva.com/design/DAF1vI-dcQo/iA5oDRBcQvd8XXio8M5jdQ/edit)
 
