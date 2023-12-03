@@ -16,3 +16,6 @@ Final teamwork project about music label system
 
 ## ERD Diagram
 [ERD diagram ](https://github.com/chaw-thiri/Music_Label_Database/blob/main/ERD%20diagram%20of%20database.jpg)
+
+## Video Link
+[Presentation Video](https://clipchamp.com/watch/0W2Fdu6TAp6)
